@@ -1,4 +1,4 @@
-# GroupProject
+# African Penguins - Spheniscus Demersus
 Members: 
 Maire Magliozzi (maire.magliozzi001@umb.edu)
 Marietta Majors (marietta.majors001@umb.edu)
